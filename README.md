@@ -7,11 +7,11 @@ A modular, menu-driven command-line application built in Python that provides mu
 ## 📦 Project Structure
 
 ```
-multi_toolkit/
+Tools/tool.txt
 │
 ├── main.py
 │
-├── utils/
+├── Toopls/
 │   ├── __init__.py
 │   ├── datetime_tools.py
 │   ├── math_tools.py
