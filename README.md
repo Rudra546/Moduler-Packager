@@ -128,10 +128,6 @@ python main.py
 ## 👨‍💻 Author
 
 Developed as a modular Python project to practice real-world application structure and utility tool design.
-
-
-Video link: https://drive.google.com/file/d/1oTYdULfgIesMCDEHnpw3G_f9FvTh3cqR/view?usp=sharing
-
 ---
 
 ## 📄 License
